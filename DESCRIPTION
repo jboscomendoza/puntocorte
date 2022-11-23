@@ -1,0 +1,18 @@
+Package: puntocortetest
+Type: Package
+Title: Punto de corte
+Version: 0.1.0
+Author: Bosco Mendoza
+Maintainer: Bosco Mendoza <jboscomendoza@gmail.com>
+Description: Asistente para comites de puntos de corte.
+    Requiere puntaje theta y error.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr,
+    ggplot2,
+    scales,
+    shiny,
+    tibble
+RoxygenNote: 7.2.2
